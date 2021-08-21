@@ -17,7 +17,7 @@ Cuando el unicel es desechado, cuenta con diferentes destinos que van desde ser 
 
 Ante esto, diferentes países han tomado cartas en el asunto a través de acciones como prohibir el uso de unicel o en la creación de plantas de separación y reciclaje. Sin embargo, separar enormes cantidades de unicel con los métodos convencionales puede representar una alternativa poco eficaz en términos económicos, generando cierto desinterés en la creación de plantas de reciclaje, tal es el caso de México, que cuenta únicamente con una planta para el reciclaje del unicel, la cual se encuentra en el centro del país y es propiedad de la compañía de plásticos Dart.
 
-Por lo tanto, se llevó a cabo el desarrollo de una base de datos de un modelo de deep learning para el reconocimiento de unicel en desechos, con la finalidad de aportar una solución eficaz a los métodos que habitualmente se aplican en las plantas de reciclaje y asi poder aportar una medida encaminada a lograr el objetivo 12 de la Agenda 2030 para el Desarrollo Sostenible de la ONU.
+Por lo tanto, se llevó a cabo el desarrollo de una base de datos de un modelo de deep learning para el reconocimiento de unicel en desechos, con la finalidad de aportar una solución eficaz a los métodos que actualmente se aplican en las plantas de reciclaje y asi poder aportar una medida encaminada a lograr el objetivo 12 de la Agenda 2030 para el Desarrollo Sostenible de la ONU.
 
 
 ### Metodología
@@ -38,7 +38,9 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
-La base de datos es eficaz, sin embargo, para lograr los resultados que desean obtenerse es necesario tener una mayor cantidad de datos (imágenes) y ejecutar la base de datos por un periodo de tiempo más prolongado. 
+La base de datos es eficaz, sin embargo, no se obtuvieron los resultados esperados debido a limitaciones de tiempo, cantidad de datos (imágenes) e incluso condiciones climatologicas que impidieron que el modelo se entrenara correctamente. A pesar de esto, el modelo puede llevarse a gran escala ya que tiene un gran potencial, el cual puede verse reflejado si se aumenta significativamente el número de imágenes y si se entrena por un periodo de tiempo más prolongado.
+
+
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
