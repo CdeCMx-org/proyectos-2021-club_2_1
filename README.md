@@ -44,8 +44,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Delicia17
-* Andrea
-* Krystel
-* David
+* Delicia Cortés
+* Andrea Tamayo
+* Krystel Rodríguez
+* David Ramírez
 
