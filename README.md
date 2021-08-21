@@ -5,7 +5,7 @@ Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_pag
 El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
 
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
-<img src=”(https://github.com/CdeCMx-org/proyectos-2021-club_2_1/blob/main/Logo_CdeCMx.png)”>
+<img src=”(WhatsApp Image 2021-08-21 at 10.40.53.jpeg)”>
 
 ### Introducción
 
