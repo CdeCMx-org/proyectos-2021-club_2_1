@@ -5,7 +5,7 @@ Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_pag
 El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
 
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
-<img src=”(WhatsApp Image 2021-08-21 at 10.40.53.jpeg)”>
+<img src=”(https://github.com/CdeCMx-org/proyectos-2021-club_2_1/blob/main/Logo_CdeCMx.png)”>
 
 ### Introducción
 
@@ -28,7 +28,7 @@ Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 ![](Logo_CdeCMx.png)
 
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
+<img src="WhatsApp Image 2021-08-21 at 10.40.53.jpeg" width=200>
 
 
 ### Conclusiones
