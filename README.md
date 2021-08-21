@@ -1,7 +1,7 @@
 ## Redes de unicel
 
 
-<img src=”(https://github.com/CdeCMx-org/proyectos-2021-club_2_1/blob/main/Logo_CdeCMx.png)”>
+
 
 ### Introducción
 
