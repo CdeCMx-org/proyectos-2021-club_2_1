@@ -45,7 +45,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo
 
 * Delicia17
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Andrea
+* Krystel
+* David
 
