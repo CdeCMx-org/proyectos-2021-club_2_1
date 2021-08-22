@@ -57,3 +57,18 @@ A pesar de realizar el etiquetado de residuos de PET y unicel, el entrenamiento 
 Club 2. "Learning Machine de Polimeros"
 
 <img src="Logo_CdeCMx.png" width=300>
+
+
+### Bibliografía
+
+-BASF. (2013, Mayo 23). Retrieved from http://www.basf.com.mx/Mexico/home/interior.jsp?cve_seccion=1&cve_subseccion=4&cv
+-Brinkmann-Rengel. (n.d.). Synthesis of Polystyrene. Polyacrylate Block S, and N Niessner. Copolymers by.
+-Chavez, H. A. (2014). Estudio de la interacción entre el proceso de etrusión y el EPS. Ciudad de México: Universidad Nacional Autonoma de México.
+-Company., M. (2013, Marzo). Monsanto Company. . Retrieved from http://www.monsanto.com.mx/historia.htm 
+-Ecovia, P. (n.d.). Poliestireno Expandido ‘Hielo seco. Retrieved from Poliestireno Expandido ‘Hielo seco: http://www.proyectoecovia.com/uploads/73c61c17cc20c499fec6a3e14f687fe6.pdf
+-facts.org, c. s. (2021). chemical safety facts.org. Retrieved from chemical safety facts.org: https://www.chemicalsafetyfacts.org/es/poliestireno/
+-FOREMEX. (n.d.). FOREMEX. Retrieved from FOREMEX: http://www.foremex.com.mx/blog/reciclaje-unicel.html
+-Keenan, J. D. (2013, Junio 17). Testimony Supporting H. An Act to Restrict the Use of Polystyrene. Sierra Massachusetts Club.
+-PortilloSandra, R. (2020, julio 20). Ecología verde. Retrieved from Ecología verde: https://www.ecologiaverde.com/cuanto-tarda-en-degradarse-el-unicel-2833.html
+-Scheirs, J. a. (2003). Modern Styrenic Polymers. Polystyrenes and Styrenic Copolymers.
+
