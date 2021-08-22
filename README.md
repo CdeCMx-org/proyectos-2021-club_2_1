@@ -42,7 +42,7 @@ A pesar de realizar el etiquetado de residuos de PET y unicel, el entrenamiento 
 
 ### Video
 
- <iframe width="560" height="315" src="https://youtu.be/I2Njzl31aHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/watch?v=I2Njzl31aHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
  
