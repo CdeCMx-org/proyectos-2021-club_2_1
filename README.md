@@ -33,7 +33,7 @@ Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 ![](WhatsApp Image 2021-08-21 at 10.40.53.jpeg)
 
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="WhatsApp Image 2021-08-21 at 10.40.53.jpeg" width=200>
+
 
 
 ### Conclusiones
