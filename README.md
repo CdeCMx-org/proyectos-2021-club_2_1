@@ -41,7 +41,7 @@ A pesar de realizar el etiquetado de residuos de PET y unicel, el entrenamiento 
 
 
 ### Video
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
+
  <iframe width="560" height="315" src="https://youtu.be/I2Njzl31aHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
