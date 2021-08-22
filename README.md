@@ -58,4 +58,4 @@ La base de datos es eficaz, sin embargo, no se obtuvieron los resultados esperad
 
 Club 2. "Learning Machine de Polimeros"
 
-                                        <img src="Logo_CdeCMx.png" width=300>
+<img src="Logo_CdeCMx.png" width=300>
