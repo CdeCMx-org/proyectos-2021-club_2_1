@@ -26,6 +26,8 @@ Para la detección automática de polímeros como el unicel, se utilizó el sist
 Primero, se tomaron aproximadamente 200 fotos de desechos donde se visualizarán objetos de unicel en distintas posiciones, formas y ángulos. Posteriormente, utilizando el lenguaje de programación Python, se procedió a etiquetar cada una de las imágenes con el programa labelImg para asi poder llevar a cabo el entrenamiento del modelo de deep learning con duración aproximada de 5 horas para reconocer este tipo de material con la mayor precisión posible.
 Finalmente, se utilizó otro grupo reducido de imagenes de desechos para comprobar la eficiencia del modelo.
 
+<img src="Diagrama.jpeg" width=700>
+
 
 ### Resultados
 
