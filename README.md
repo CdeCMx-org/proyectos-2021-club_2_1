@@ -33,11 +33,11 @@ Finalmente, se utilizó otro grupo reducido de imagenes de desechos para comprob
 
 
 
-<img src="DSC01094.png" width=400> <img src="IMG_0750.png" width=400>
+<img src="111.jpeg" width=300> <img src="222.jpeg" width=300> <img src="333.jpeg" width=300> 
 
 ### Conclusiones
 
-Al comprobar la eficiencia del modelo, se observó que el modelo no identificó correctamente los desechos objetivo. Estos resultados se vieron afectados por limitaciones de tiempo, la poca cantidad de datos (imágenes) e incluso condiciones climatológicas que impidieron que el modelo se entrenara correctamente. A pesar de esto, el modelo es bueno y puede entrenarse mucho mejor aumentando significativamente el número de imágenes (>10000) y si se entrena por un periodo de tiempo más prolongado. Además, podría ser un proyecto escalable ya que puede aplicarse para el reconocimiento de cualquier otro tipo de desecho.
+A pesar de realizar el etiquetado de residuos de PET y unicel, el entrenamiento del modelo únicamente se realizó para el reconocimiento de botellas PET debido a limitaciones de tiempo e incluso condiciones climatológicas. Sin embargo, el modelo fue capaz de detectar las botellas de PET con un grado de presición aceptable, por lo que se espera obtener unos resultados al entrenar el modelo para el reconocimiento de unicel. Para mejorar el entrenamiento, se sugiere aumentar significativamente el número de imágenes (>10000), asi como entrenar el modelo por un periodo de tiempo más prolongado. Además, podría ser un proyecto escalable ya que puede aplicarse para el reconocimiento de cualquier otro tipo de desecho.
 
 
 ### Video
