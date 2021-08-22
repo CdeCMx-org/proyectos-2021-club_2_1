@@ -22,7 +22,7 @@ Por lo tanto, se llevó a cabo el desarrollo de una base de datos de un modelo d
 
 ### Metodología
 
-Para la detección automática de polímeros como el unicel, se utilizó el sistema YOLO (por sus siglas en inglés You Only Look Once), el cual es un algoritmo con base en redes neuronales y convolucionales que es capaz de detectar distintos objetos en tiempo real. 
+Para la detección automática de polímeros como el unicel, se utilizó el sistema YOLO (por sus siglas en inglés You Only Look Once), el cual es un algoritmo con base en redes neuronales y convolucionales capaz de detectar distintos objetos en tiempo real. 
 Primero, se tomaron aproximadamente 200 fotos de desechos donde se visualizarán objetos de unicel en distintas posiciones, formas y ángulos. Posteriormente, utilizando el lenguaje de programación Python, se procedió a etiquetar cada una de las imágenes con el programa labelImg para asi poder llevar a cabo el entrenamiento del modelo de deep learning con duración aproximada de 5 horas para reconocer este tipo de material con la mayor precisión posible.
 Finalmente, se utilizó otro grupo reducido de imagenes de desechos para comprobar la eficiencia del modelo.
 
