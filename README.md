@@ -17,13 +17,13 @@ Cuando el unicel es desechado, cuenta con diferentes destinos que van desde ser 
 
 Ante esto, diferentes países han tomado cartas en el asunto a través de acciones como prohibir el uso de unicel o en la creación de plantas de separación y reciclaje. Sin embargo, separar enormes cantidades de unicel con los métodos convencionales puede representar una alternativa poco eficaz en términos económicos, generando cierto desinterés en la creación de plantas de reciclaje, tal es el caso de México, que cuenta únicamente con una planta para el reciclaje del unicel, la cual se encuentra en el centro del país y es propiedad de la compañía de plásticos Dart.
 
-Por lo tanto, se llevó a cabo el desarrollo de una base de datos de un modelo de deep learning para el reconocimiento de unicel en desechos, con la finalidad de aportar una solución eficaz a los métodos que actualmente se aplican en las plantas de reciclaje y asi poder aportar una medida encaminada a lograr el objetivo 12: Producción y consumo sostenible, de la Agenda 2030 para el Desarrollo Sostenible de la ONU.
+Por lo tanto, se llevó a cabo el desarrollo de una base de datos de un modelo de deep learning para el reconocimiento de unicel y otro tipo de polimeros de interés en desechos, con la finalidad de aportar una solución eficaz a los métodos que actualmente se aplican en las plantas de reciclaje y asi poder aportar una medida encaminada a lograr el objetivo 12: Producción y consumo sostenible, de la Agenda 2030 para el Desarrollo Sostenible de la ONU.
 
 
 ### Metodología
 
-Para la detección automática de polímeros como el unicel, se utilizó el sistema YOLO (por sus siglas en inglés You Only Look Once), el cual es un algoritmo con base en redes neuronales y convolucionales capaz de detectar distintos objetos en tiempo real. 
-Primero, se tomaron aproximadamente 200 fotos de desechos donde se visualizarán objetos de unicel en distintas posiciones, formas y ángulos. Posteriormente, utilizando el lenguaje de programación Python, se procedió a etiquetar cada una de las imágenes con el programa labelImg para asi poder llevar a cabo el entrenamiento del modelo de deep learning con duración aproximada de 5 horas para reconocer este tipo de material con la mayor precisión posible.
+Para la detección automática de polímeros como el PET y unicel, se utilizó el sistema YOLO (por sus siglas en inglés You Only Look Once), el cual es un algoritmo con base en redes neuronales convolucionales capaz de detectar distintos objetos en tiempo real. 
+Primero, se tomaron aproximadamente 200 fotos de desechos donde se visualizarán objetos de unicel y botellas pet en distintas posiciones, formas, ángulos y condiciones de iluminación. Posteriormente, utilizando el lenguaje de programación Python, se procedió a etiquetar cada una de las imágenes con el programa labelImg para asi poder llevar a cabo el entrenamiento del modelo de deep learning con duración aproximada de 5 horas para reconocer este tipo de materiales con un grado de precisión aceptable. 
 Finalmente, se utilizó otro grupo reducido de imagenes de desechos para comprobar la eficiencia del modelo.
 
 <img src="Diagrama.jpeg" width=700>
