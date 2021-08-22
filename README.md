@@ -38,7 +38,7 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
-La base de datos es eficaz, sin embargo, no se obtuvieron los resultados esperados debido a limitaciones de tiempo, cantidad de datos (imágenes) e incluso condiciones climatologicas que impidieron que el modelo se entrenara correctamente. A pesar de esto, el modelo puede llevarse a gran escala ya que tiene un gran potencial, el cual puede verse reflejado si se aumenta significativamente el número de imágenes y si se entrena por un periodo de tiempo más prolongado.
+La base de datos es eficaz, sin embargo, no se obtuvieron los resultados esperados debido a limitaciones de tiempo, la poca cantidad de datos (imágenes) e incluso condiciones climatologicas que impidieron que el modelo se entrenara correctamente. A pesar de esto, el modelo puede llevarse a gran escala ya que tiene un gran potencial, el cual puede verse reflejado si se aumenta significativamente el número de imágenes y si se entrena por un periodo de tiempo más prolongado.
 
 
 
@@ -49,11 +49,12 @@ La base de datos es eficaz, sin embargo, no se obtuvieron los resultados esperad
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
-### Equipo
+### Por equipo 2.1:
 
 * Delicia Cortés
 * Andrea Tamayo
 * Krystel Rodríguez
 * David Ramírez
 
+Club 2. "Learning Machine de Polimeros"
 
