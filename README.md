@@ -31,15 +31,9 @@ Finalmente, se utilizó otro grupo reducido de imagenes de desechos para comprob
 
 ### Resultados
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](WhatsApp Image 2021-08-21 at 10.40.53.jpeg)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 
 
+<img src="DSC01094.png" width=400> <img src="IMG_0750.png" width=400>
 
 ### Conclusiones
 
